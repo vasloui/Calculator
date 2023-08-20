@@ -1,0 +1,24 @@
+Enter '1' for '+',
+'2' for '-',
+'3' for '*',
+'4' for '**' (the exponent),
+'5' for 'v-' (the square root)
+or '0' to exit.
+ 1
+Enter first Addend.
+ 1.0
+Enter second Addend.
+ 1.0
+Result is: 2.0
+Do you want to continue [y/N]?
+ y
+Enter '1' for '+',
+'2' for '-',
+'3' for '*',
+'4' for '**' (the exponent),
+'5' for 'v-' (the square root)
+or '0' to exit.
+ 0
+Are you sure [y/N]?
+ y
+Program Stopped.

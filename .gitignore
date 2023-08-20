@@ -1,0 +1,5 @@
+# Project exclude paths
+/out/
+/.idea/
+/Calculator.v2.iml/
+/.gitignore/
