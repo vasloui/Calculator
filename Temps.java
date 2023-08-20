@@ -20,6 +20,7 @@ public class Temps {
 
 
     }
+
     // Setters
     public void setInput(String input) {
         this.input = input;
@@ -61,7 +62,6 @@ public class Temps {
     public double getResult() {
         return result;
     }
-
 
 
 }
