@@ -1,7 +1,7 @@
 
 # Calculator
 
-A calculator application in the created using Java that runs on the terminal.
+A calculator Java application that runs on the terminal.
 
 
 
@@ -26,3 +26,4 @@ On exit, the history is saved in a History.txt file in the project's directory.
 ![dir](screenshots/history_in_dir.png)      | ![content](screenshots/history_example.png) 
 
 (Note: The square root operation only calculates for natural numbers, whose root is also a natural number.)
+
