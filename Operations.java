@@ -8,7 +8,6 @@ public class Operations {
     // Calculates, sets and prints the result.
     public String calculations() {
 
-//        String result = null;
 
         if (Objects.equals(temps.getOperator(), "1")) {
             temps.setResult(add(temps.getFirst(), temps.getSecond()));
@@ -24,8 +23,6 @@ public class Operations {
 
         } else if (Objects.equals(temps.getOperator(), "5")) {
             temps.setResult(sqrRoot(temps.getFirst()));
-//            if (!Objects.equals(temps.getResult(), 0)) {
-//            }
         }
 
         return "Result is: " + String.valueOf(temps.getResult());
